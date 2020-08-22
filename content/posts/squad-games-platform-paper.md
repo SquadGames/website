@@ -6,24 +6,16 @@ draft: true
 Jesse B. Miller, Ezra Weller
 
 ### Table of Contents
-[Vision](#Vision)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[The Opportunity of Video Game Mods](#The-Opportunity-of-Video-Game-Mods)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[The Squad Games Vision](#The-Squad-Games-Vision)
-
-[The Squad Games Platform](#The-Squad-Games-Platform)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Platform Specification](#Platform-Specification)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Usage Example: Squad Chess](#Usage-Example-Squad-Chess)
-[Organizational Structure](#Organizational-Structure)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Stakeholder Model](#Stakeholder-Model)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Governed Territory](#Governed-Territory)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Path to Decentralization](#Path-to-Decentralization)
+[Vision](#Vision)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[The Opportunity of Video Game Mods](#The-Opportunity-of-Video-Game-Mods)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[The Squad Games Vision](#The-Squad-Games-Vision)<br>
+[The Squad Games Platform](#The-Squad-Games-Platform)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Platform Specification](#Platform-Specification)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Usage Example: Squad Chess](#Usage-Example-Squad-Chess)<br>
+[Organizational Structure](#Organizational-Structure)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Stakeholder Model](#Stakeholder-Model)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Governed Territory](#Governed-Territory)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Path to Decentralization](#Path-to-Decentralization)<br>
 [Extrapolation](#Exploration)
 
 # Vision
