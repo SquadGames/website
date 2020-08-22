@@ -7,6 +7,13 @@ header a, header a:link, header a:visited, header a:active, header a:hover {
     text-decoration: none;
 }
 
+footer {
+    background: white;
+    border-top: 3vmin solid black;
+    border-bottom: 5vmin solid black;
+}
+
+
 a {
     color: black;
 }
