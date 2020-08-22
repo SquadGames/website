@@ -16,7 +16,7 @@ Jesse B. Miller, Ezra Weller
 &nbsp;&nbsp;&nbsp;&nbsp;[Stakeholder Model](#Stakeholder-Model)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Governed Territory](#Governed-Territory)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Path to Decentralization](#Path-to-Decentralization)<br>
-[Extrapolation](#Exploration)
+[Extrapolation](#Extrapolation)
 
 # Vision
 This paper describes Squad Games, a community-owned infrastructure platform for video game mods.
