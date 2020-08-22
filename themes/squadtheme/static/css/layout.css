@@ -56,8 +56,12 @@ header .small h2 {
 
 footer {
     height: 50vmin;
-    background: black;
     margin-top: 10vmin;
+}
+
+.half {
+    width: 49%;
+    float: left;
 }
 
 @media only screen and (max-width: 600px) {

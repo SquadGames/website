@@ -20,7 +20,7 @@ html {
 }
 
 .home h1 {
-    margin-top: 20vmax;
+    margin-top: 5vmax;
 }
 
 .content h2 {
@@ -35,6 +35,15 @@ html {
     font-size: calc(0.8em + 1vw);
     line-height: 1;
     margin: 1.6em 0;
+}
+
+footer .content h3 {
+    line-height: 1em;
+    margin: 0.41em;
+}
+
+footer li {
+    line-height: 1.4em;
 }
 
 .left-margin time {
@@ -60,9 +69,19 @@ ul li {
     list-style-type: square;
 }
 
+footer ul li {
+    list-style-type: none;
+}
+
 pre {
     font-family: 'Inconsolata', monospace;
 }
+
+footer h2 {
+    font-family: 'Bungee', cursive;
+}
+
+
 
 #    font-family: 'Alfa Slab One', cursive;
 #

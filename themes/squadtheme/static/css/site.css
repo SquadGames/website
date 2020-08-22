@@ -31,3 +31,21 @@ a:active {
 a:hover {
     color: #0053a3;
 }
+
+footer {
+    background: black;
+    border-top: 3vmin solid black;
+    border-bottom: 5vmin solid black;
+    color: white;
+}
+
+footer a:link {
+    color: white;
+}
+
+footer a:visited {
+    color: white;
+}
+
+
+

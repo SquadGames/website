@@ -2,8 +2,8 @@
 title: "Squad Chess"
 date: 2020-07-21T21:05:04-03:00
 draft: false
+homepage: true
 ---
-
 
 Squad Chess is the first game built using the Squad Games Platform,
 meant as a demonstration.
