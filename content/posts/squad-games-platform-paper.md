@@ -166,7 +166,7 @@ Later on, the SDK may also support curation methods based on the following:
 - A Pagerank-style algorithm based on inter-contribution references plus market data
 
 ### Game Showcase & Store: squad.games
-Squad.games is a showcase and store for game contributions. 
+squad.games will include a showcase and store for game contributions. 
 
 We have described the Squad Games platform as focused on video game mods, but astute readers will have noted that game contributions aren’t always mods. Games aren’t composite parts of existing applications; they are applications (in this case, references to applications, specifically). We’ve chosen to include game contributions for a few reasons:
 
