@@ -59,6 +59,11 @@ footer {
     margin-top: 10vmin;
 }
 
+.half {
+    width: 49%;
+    float: left;
+}
+
 @media only screen and (max-width: 600px) {
     .left-margin, .right-margin {
         width: 5vw;

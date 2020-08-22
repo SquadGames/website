@@ -2,28 +2,21 @@
 title: "Squad Games Platform"
 date: 2020-08-16T10:07:06-05:00
 draft: false
-LocalWords:  videogames devs modders
+homepage: true
 ---
 
-There is an incredible opportunity in the gaming industry for
-supporting user generated content (mods) with marketplaces where
-creators can sell their work and users can find it. We see a future in
-which videogame development is far more diverse and varied than
-it is today leading to a dramatically expanded audience as smaller
-communities get market support for their work.
+From MOBAs to Minecraft, video game mods have played a huge role in
+building today’s gaming industry. But mod ecosystems are difficult to
+build, and most game developers decide not to include mod systems.
 
-The Squad Games Platform offers a radical new way to build videogames
-and financially support game devs, modders, and players.
+The Squad Games Platform offers a radical new way to build video games
+with mods in mind, to the mutual benefit of game devs, mod-makers, and
+players. With Squad Games, anyone can submit new mods to your game,
+those mods are well curated, and the value created brings in new
+players. Revenues are shared between mod-makers and game developers.
 
-We are hard at work building a decentralized protocol on the Ethereum
-blockchain and the developer tools needed to develop videogames for
-modding, allow everyone to retain ownership of their contributions,
-earn revenue from their success, and curate the best games and mods
-for the players who will love them.
-
-*We are looking for design partners!* If this sounds interesting to
-you, if you are making a moddable game and want to support your
-modding community, please get in touch!  On Twitter
-[@setmatchgames](https://twitter.com/setmatchgames) or join [our
-Discord](https://discord.gg/4wq7nTN)
-
+We’re hard at work building the decentralized protocol and developer
+tools needed for the Squad Games Platform, and we are looking for
+design partners! If you are a game developer interested in building a
+mod-enabled game, please get in touch on the [Squad Games
+Discord](https://discord.gg/BuCMZ59).
