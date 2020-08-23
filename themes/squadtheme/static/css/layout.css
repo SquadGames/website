@@ -24,7 +24,7 @@ header .full h2 {
 
 header .full h3 {
     text-align: center;
-    font-size: 2vw;
+    font-size: 35px;
 }
 
 header .small h1 {
@@ -56,6 +56,10 @@ header .small h2 {
 
 footer {
     margin-top: 10vmin;
+}
+
+iframe {
+  margin: 15px;
 }
 
 .half {

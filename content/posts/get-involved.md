@@ -1,15 +1,17 @@
 ---
 title: "Get Involved"
 date: 2020-07-21T21:07:36-01:00
-draft: true
----
+draft: false
+homepage: true
+--- 
 
-Join the community. Come work on it with us
-in the [repo on GitHub](https://github.com/SetMatchGames/squad)
+We’re hard at work building the decentralized protocol and developer tools needed for the Squad Games Platform, and we are looking for design partners!
 
-Got questions? Ask them or join the conversation on [our
-Discord](https://discord.gg/4wq7nTN) or on Twitter
-[@setmatchgames](https://twitter.com/setmatchgames)
+### Contact us
+
+[![Discord](/images/Discord-Logo-Color.png)](https://discord.gg/BuCMZ59) 
+[![Twitter](/images/Twitter_Logo_Blue.png)](https://twitter.com/setmatchgames)
+[![GitHub](/images/GitHub-Mark-120px-plus.png)](https://github.com/SquadGames)
 
 
 

@@ -16,6 +16,11 @@ h1 a {
     text-decoration: None;
 }
 
+a img {
+    height: 80px;
+    width: 80px;
+}
+
 a:link {
     color: black;
 }
@@ -47,5 +52,11 @@ footer a:visited {
     color: white;
 }
 
+strong {
+  font-weight: bold;
+}
 
+li {
+  line-height: 1.5;
+}
 
