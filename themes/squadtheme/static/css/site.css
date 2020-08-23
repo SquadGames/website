@@ -53,11 +53,11 @@ footer a:visited {
 }
 
 strong {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 li {
-  line-height: 1.5;
+    line-height: 1.5;
 }
 
 @media only screen and (max-width: 600px) {
