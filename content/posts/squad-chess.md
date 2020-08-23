@@ -5,7 +5,7 @@ draft: false
 homepage: true
 ---
 
-### Try the Squad Chess at [chess.squad.games](https://chess.squad.games)
+### Try the [Squad Chess Demo](https://chess.squad.games)
 
 Squad Chess is the first game built using the Squad Games Platform,
 meant as a demonstration.

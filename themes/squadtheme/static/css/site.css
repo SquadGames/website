@@ -17,8 +17,8 @@ h1 a {
 }
 
 a img {
-    height: 80px;
-    width: 80px;
+    height: 8vw;
+    width: 8vw;
 }
 
 a:link {
@@ -60,3 +60,9 @@ li {
   line-height: 1.5;
 }
 
+@media only screen and (max-width: 600px) {
+  a img {
+    height: 10vw;
+    width: 10vw;
+  }
+}
