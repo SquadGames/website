@@ -61,7 +61,7 @@ li {
 }
 
 @media only screen and (max-width: 600px) {
-  a img {
+  img.logo {
     height: 10vw;
     width: 10vw;
   }
