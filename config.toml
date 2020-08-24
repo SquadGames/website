@@ -6,3 +6,6 @@ theme = "squadtheme"
 [Params]
 homepageContentTypes = ["posts"]
 gaTrackingID = "todo-update-in-config-toml"
+
+[markup.goldmark.renderer]
+unsafe = true

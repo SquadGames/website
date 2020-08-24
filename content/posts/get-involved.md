@@ -9,10 +9,6 @@ We’re hard at work building the decentralized protocol and developer tools nee
 
 ### Contact us
 
-[![Discord](/images/Discord-Logo-Color.png)](https://discord.gg/BuCMZ59) 
-[![Twitter](/images/Twitter_Logo_Blue.png)](https://twitter.com/setmatchgames)
-[![GitHub](/images/GitHub-Mark-120px-plus.png)](https://github.com/SquadGames)
-
-
-
-
+<a href="https://discord.gg/BuCMZ59"><img class="logo" src="/images/Discord-Logo-Color.png" alt="Discord"></a>
+<a href="https://twitter.com/setmatchgames"><img class="logo" src="/images/Twitter_Logo_Blue.png" alt="Twitter"></a>
+<a href="https://github.com/SquadGames"><img class="logo" src="/images/GitHub-Mark-120px-plus.png" alt="Github"></a>
