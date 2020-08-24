@@ -1,5 +1,5 @@
 .full {
-    height: 95vmin;
+    height: 100vh;
 }
 
 .small {
@@ -11,20 +11,25 @@
 header .full h1 {
     font-family: 'Bungee Shade', cursive;
     font-size: 11vw;
-    padding-top: 20vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 50vh;
     line-height: 1;
+    margin-left: 2vw;
 }
 
 header .full h2 {
     font-family: 'Major Mono Display', monospace;
     font-size: 7.5vw;
-    padding-bottom: 17vmin;
+    height: 40vh;
     line-height: 1;
+    margin-left: 2vw;
 }
 
 header .full h3 {
     text-align: center;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 
 header .small h1 {
@@ -55,7 +60,20 @@ header .small h2 {
 }
 
 footer {
+    display: flex;
+    flex-direction: row;
     margin-top: 10vmin;
+}
+
+footer .content {
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer .content div, iframe {
+    margin: 1vw;
 }
 
 .half {
@@ -70,5 +88,14 @@ footer {
 
     .content {
         width: 90vw;
+    }
+
+    header .full h3 {
+      font-size: 5vw;
+    }
+
+    footer .content {
+        flex-direction: column;
+        justify-content: space-around;
     }
 }

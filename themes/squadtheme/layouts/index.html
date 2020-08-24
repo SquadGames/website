@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ range where site.RegularPages "Type" "in" site.Params.homepageContentTypes }}
 {{ if eq .Params.Homepage true }}
-<div class="flowline">
+<div class="flowline" id={{ .Title }}>
   <div class="left-margin">  </div>
   <div class="content home">
     <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
