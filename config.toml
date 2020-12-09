@@ -5,7 +5,7 @@ theme = "squadtheme"
 
 [Params]
 homepageContentTypes = ["posts"]
-gaTrackingID = "255778585"
+gaTrackingID = "G-XR0H9BG68E"
 
 [markup.goldmark.renderer]
 unsafe = true
