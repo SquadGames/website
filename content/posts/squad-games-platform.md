@@ -1,7 +1,7 @@
 ---
 title: "The Squad Games Platform 🦑"
 date: 2020-08-16T10:07:06-05:00
-draft: false
+draft: true
 homepage: true
 ---
 
