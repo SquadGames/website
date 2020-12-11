@@ -1,7 +1,7 @@
 ---
 title: "The Squad Games Platform"
 date: 2020-08-22T11:40:47-05:00
-draft: false
+draft: true
 ---
 Jesse B. Miller, Ezra Weller
 
