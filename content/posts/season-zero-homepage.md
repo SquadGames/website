@@ -5,11 +5,12 @@ draft: false
 homepage: true
 --- 
 
-## When videogames are owned by their communities, everything changes.
+### When videogames are owned by their communities, everything changes.
 
 We are bringing decentralization and the ownership economy to videogame development so this powerful new engine can drive the troubled industry to a more equitable and valuable future. Ownership will be held by communities and individuals who build value rather than large companies who build sandcastle moats of unreasonable license agreements.
 
 Squad Games is a fundamentally new way to organize videogame development with trustless licence agreements between developers, players, and modders---who are often the biggest innovators.
+
 * Better games for more diverse audiences
 * Fair compensation and ownership for communities and innovators
 * Relief from the content treadmill
