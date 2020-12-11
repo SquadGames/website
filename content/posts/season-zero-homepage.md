@@ -13,6 +13,6 @@ Squad Games is a fundamentally new way to organize videogame development with tr
 * Relief from the content treadmill
 * Relief from the impossibilities of balancing a game
 
-Come sample the future of game dev with our demo game [Squad Chess](https://chess.squad.games). We are hard at work on a Season Zero friendly competition, and we invite you to participate. Sign up for our newsletter and join our discord so you don’t miss it.
+Come sample the future of game dev with our demo game [Squad Chess](https://chess.squad.games). We are hard at work on a Season Zero friendly competition, and we invite you to participate. Sign up for our [newsletter](https://squadgames.substack.com) and join our [discord](https://discord.gg/BuCMZ59) so you don’t miss it.
 
 We’re delighted to be partnering with Web3API on their launch. Their tools will dramatically simplify the work of building Squad Games, and dramatically simplify the work of building games on Squad Games.
